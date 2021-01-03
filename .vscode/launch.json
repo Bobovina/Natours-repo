@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "node-terminal",
+      "name": "Run Script: watch:sass",
+      "request": "launch",
+      "command": "npm run watch:sass",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
